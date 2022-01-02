@@ -1,7 +1,16 @@
 # Fundamentals-of-Data-Analysis
 
 
+## pyplot.ipynb
 
-### References
+This notebook contains an explanation of matplotlib.plyplot and examples of three different types of plots
 
-https://docs.python.org/3/library/datetime.html
+1. Scatterplot
+2. Timeseries Plot
+3. Stem Plot
+
+## cao.ipynb
+
+This notebook contains a comparison of CAO points in 2019, 2020, and 2021 using the functionality in pandas
+
+
