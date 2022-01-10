@@ -1,0 +1,35 @@
+
+Overview of the whole dataset:
+       code                                 title (points_r1_2021,)  \
+0     AL605       Music and Instrument Technology               211   
+1     AL630                   Pharmacy Technician               308   
+2     AL631                        Dental Nursing               311   
+3     AL632                       Applied Science               297   
+4     AL650                              Business               AQA   
+...     ...                                   ...               ...   
+1554  TU993    Early Childhood Care and Education               NaN   
+1555  TU994    Early Childhood Care and Education               NaN   
+1556  WD139                     Civil Engineering               NaN   
+1557  WD149               Early Childhood Studies               NaN   
+1558  CR435  Coaching Science and Sports Pedagogy               NaN   
+
+     (points_r1_2020,) points_r1_2019  
+0                  209            300  
+1                  252            313  
+2             #+matric            350  
+3             #+matric            321  
+4             #+matric            328  
+...                ...            ...  
+1554               NaN            NaN  
+1555               NaN            NaN  
+1556               NaN            NaN  
+1557               NaN            NaN  
+1558               NaN            NaN  
+
+[1559 rows x 5 columns]
+
+Basic Statistics         code     title  (points_r1_2021,)  (points_r1_2020,) points_r1_2019
+count    1559      1559               1416               1437            920
+unique   1559      1024                415                389            372
+top     DC003  Business                300                300            300
+freq        1        29                 22                 26             18

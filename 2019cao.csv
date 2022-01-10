@@ -176,8 +176,8 @@ CT125,Computing and IT,242,242
 CT325,Business,253,253
 CM001,Education - Primary Teaching,508,
 CM002,Education - Primary Teaching - Gaeltacht Applicant,#462,
-CM003,Oideachas – Bunmhúinteoireacht Trí Mheán na Gaeilg,#513,
-CM004,Oideachas - Bunmhúinteoireacht Trí Mheán na Gaeilg,#480,
+CM003,Oideachas  Bunmhinteoireacht Tr Mhen na Gaeilg,#513,
+CM004,Oideachas - Bunmhinteoireacht Tr Mhen na Gaeilg,#480,
 CM010,Education Studies,382,327
 CM020,Early Childhood Education,317,
 DB500,Computing,234,234
@@ -218,7 +218,7 @@ DC114,Global Business (Spain),544,
 DC115,Accounting and Finance,544,
 DC116,Global Business (USA),613*,
 DC117,Aviation Management / Aviation Management with Pil,484,
-DC118,Gná agus Gaeilge / Business and Irish,368,
+DC118,Gn agus Gaeilge / Business and Irish,368,
 DC119,Global Business (Canada),601,
 DC120,Computing for Business,403,402
 DC121,Computer Science,475,
@@ -602,7 +602,7 @@ GY113,Arts with Human Rights,413,
 GY115,Arts with Performing Arts Studies,300,
 GY118,Arts (Drama  Theatre and Performance Studies),453,430
 GY119,Arts (Journalism),484,473
-GY122,Na Dána (Cumarsáid agus Gaeilge),410,
+GY122,Na Dna (Cumarsid agus Gaeilge),410,
 GY123,Applied Social Sciences,419,
 GY125,Arts (Digital Arts and Technology),403,
 GY127,Arts (Film and Digital Media),430,421
@@ -613,7 +613,7 @@ GY132,Government (Politics  Economics and Law),465,451
 GY133,Education (Computer Science and Mathematical Studi,454,
 GY134,Geography and Geosystems,425,
 GY135,Arts (Global Media),442,
-GY136,Na Dána (Léann Teanga - options),526,
+GY136,Na Dna (Lann Teanga - options),526,
 GY201,Commerce,476,
 GY202,Commerce (International) with French,520,
 GY203,Commerce (International) with German,518,
