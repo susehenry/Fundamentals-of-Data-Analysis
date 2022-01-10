@@ -33,7 +33,8 @@ requests == 2.25.1
 
 To view the pyplot.ipynb notebook in static format click here: https://nbviewer.org/github/susehenry/Fundamentals-of-Data-Analysis/blob/main/cao-Copy2.ipynb
 
-To view the cao-Copy2.ipynb notebook in static format click here: https://github.com/susehenry/Fundamentals-of-Data-Analysis/blob/main/pyplot.ipynb
+To view most recent cao_points.ipynb in static format clickk here:https://nbviewer.org/github/susehenry/Fundamentals-of-Data-Analysis/blob/main/CAO_Points.ipynb
+
 
 
 ## How to install and run the project on your local machine
