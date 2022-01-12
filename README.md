@@ -6,7 +6,7 @@ This repository contains two jupyter notebooks exploring different aspects in th
 
 ## Repository Content
 
-**cao- Copy2.ipynb** – in this jupyter notebook data from the cao website is used from 2019, 2020, 2021. This data is available from  CAO Website, the data was saved to my repository and then cleaned, combined, and finally an exploration of data is carried out.
+**CAO_Points.ipynb** – in this jupyter notebook data from the cao website is used from 2019, 2020, 2021. This data is available from  CAO Website, the data was saved to my repository and then cleaned, combined, and finally an exploration of data is carried out.
 
 **pyplot.ipynb** – This repository contains a explanation of matplotlib.plyplot and examines ways data can be visually represented using three different plot styles.
 1.	Scatterplot
@@ -14,7 +14,7 @@ This repository contains two jupyter notebooks exploring different aspects in th
 3.	Stem Plot
 
 ### Data files
-**cao- Copy2.ipynb** – 2019 Data, Data, 2020.csv, lv18-19.xlsx
+**CAO_Points.ipynb** – 2019 Data, Data, 2020.csv, lv18-19.xlsx
 
 **Pyplot.ipynb**  -  BTC-USD.cv 
 
@@ -31,9 +31,9 @@ requests == 2.25.1
 
 ## View in nbviewer
 
-To view the pyplot.ipynb notebook in static format click here: https://nbviewer.org/github/susehenry/Fundamentals-of-Data-Analysis/blob/main/cao-Copy2.ipynb
+To view the **pyplot.ipynb** notebook in static format click here: https://nbviewer.org/github/susehenry/Fundamentals-of-Data-Analysis/blob/main/pyplot.ipynb
 
-To view most recent cao_points.ipynb in static format clickk here:https://nbviewer.org/github/susehenry/Fundamentals-of-Data-Analysis/blob/main/CAO_Points.ipynb
+To view most recent **cao_points.ipynb** in static format clickk here:https://nbviewer.org/github/susehenry/Fundamentals-of-Data-Analysis/blob/main/CAO_Points.ipynb
 
 
 
@@ -58,8 +58,26 @@ Run the notebooks by inputting the following command:
 ```python
 jupyter-lab
 ```
-
 This will open a browser window where the notebooks can be accessed
+
+## To Use Excalibur - to extract tabular data from PDFs
+
+First you need to install ghost script, see here for dependencies and how to install -https://camelot-py.readthedocs.io/en/master/user/install-deps.html
+
+after installing ghostscript use pip to install Excalibur
+```python
+pip install exalibur.py
+```
+And then start using the webserver
+
+```python
+excalibur webserver
+```
+
+Now you can go to http://localhost:5000 and start extracting tabular data from your PDFs.
+
+User guide for Excalibur avaliable here - https://excalibur-py.readthedocs.io/en/master/user/intro.html
+
 
 ## Acknowledgements
 
